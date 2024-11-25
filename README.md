@@ -9,6 +9,28 @@ for new culinary experiences or a traveller seeking the best dining spots in tow
 Dining Guide has got you covered. 
 
 
+<img src="https://github.com/user-attachments/assets/afd6caac-fd55-4f91-b637-953034286aee" alt="Project Logo" width="200"/>
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Development Technology](#development-technology)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Contact Information](#contact-information)
+
+
+### Introduction
+Local Dining Guide is a user-friendly platform that aims to connect users with local dining options. It provides a rich and intuitive interface to search for restaurants, view their menus, read reviews, and get directions. With a focus on enhancing the dining experience, this software solution strives to bridge the gap between diners and local eateries.
+
+
+![Banner](https://github.com/user-attachments/assets/8d293ff9-c311-46a6-bbcc-544b27668279)
+
+
+### License
+This project is licensed under the [MIT License](https://bjitgroup.com/).
+
 ### **Development Technology**
 
 **Front-end:**
@@ -40,24 +62,25 @@ and receive personalized recommendations.
 *[Click](https://bjitacademy.com/) here for more details*
 
 
-<img src="https://github.com/user-attachments/assets/afd6caac-fd55-4f91-b637-953034286aee" alt="Project Logo" width="200"/>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Development Technology](#development-technology)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [Contact Information](#contact-information)
+## **Getting Started**
 
+*Follow these steps to get Local Dining Guide up and running on your local machine.*
 
-### Introduction
-Local Dining Guide is a user-friendly platform that aims to connect users with local dining options. It provides a rich and intuitive interface to search for restaurants, view their menus, read reviews, and get directions. With a focus on enhancing the dining experience, this software solution strives to bridge the gap between diners and local eateries.
+### **Prerequisites**
 
+**Web Browser:** Ensure you have a modern web browser installed to access the Local Dining Guide interface.
 
-![Banner](https://github.com/user-attachments/assets/8d293ff9-c311-46a6-bbcc-544b27668279)
+**Internet Connection:** A stable internet connection is required to fetch restaurant data and images.
 
+### Installation
+1. **Clone the Repository:** Start by cloning this repository to your local machine.
+   ```bash
+   git clone https://github.com/yourusername/local-dining-guide.git
 
-### License
-This project is licensed under the [MIT License](https://bjitgroup.com/).
+2. **Navigate to Directory:** Move into the project directory.
+   ```bash
+   cd local-dining-guide 
+3. **Launch the Application:** Open the index.html file in your web browser. 
+   ```bash
+   open index.html 
