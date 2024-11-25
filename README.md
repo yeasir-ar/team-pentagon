@@ -9,6 +9,7 @@ for new culinary experiences or a traveller seeking the best dining spots in tow
 Dining Guide has got you covered. 
 
 
+
 <img src="https://github.com/user-attachments/assets/afd6caac-fd55-4f91-b637-953034286aee" alt="Project Logo" width="200"/>
 
 ## Table of Contents
@@ -103,4 +104,17 @@ Thank you to the following contributors who have helped to improve this project:
 | Contributor 3 | Email address 3 | Phone Number 3 |
 | Contributor 4 | Email address 4 | Phone Number 4 |
 | Contributor 5 | Email address 5 | Phone Number 5 |
+
+
+# Contact Information
+
+**For any inquiries or support, please email us at** [support@localdiningguide.com](mailto:support@localdiningguide.com) **or visit our website** [http://www.localdiningguide.com](http://www.localdiningguide.com).
+
+### Follow us on social media: *(Add Icons)*
+
+- **Twitter**: [@localdiningguide](https://twitter.com/localdiningguide)
+- **Facebook**: [LocalDiningGuide](https://www.facebook.com/LocalDiningGuide)
+- **Instagram**: [@localdiningguide](https://www.instagram.com/localdiningguide)
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! **Bon appétit!**
 
