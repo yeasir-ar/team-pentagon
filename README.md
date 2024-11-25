@@ -8,6 +8,7 @@ and discover local restaurants, cafes, and eateries. Whether you're a food enthu
 for new culinary experiences or a traveller seeking the best dining spots in town, Local 
 Dining Guide has got you covered. 
 
+
 ### **Development Technology**
 
 **Front-end:**
@@ -38,3 +39,25 @@ and receive personalized recommendations.
 
 *[Click](https://bjitacademy.com/) here for more details*
 
+
+<img src="https://github.com/user-attachments/assets/afd6caac-fd55-4f91-b637-953034286aee" alt="Project Logo" width="200"/>
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Development Technology](#development-technology)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Contact Information](#contact-information)
+
+
+### Introduction
+Local Dining Guide is a user-friendly platform that aims to connect users with local dining options. It provides a rich and intuitive interface to search for restaurants, view their menus, read reviews, and get directions. With a focus on enhancing the dining experience, this software solution strives to bridge the gap between diners and local eateries.
+
+
+![Banner](https://github.com/user-attachments/assets/8d293ff9-c311-46a6-bbcc-544b27668279)
+
+
+### License
+This project is licensed under the [MIT License](https://bjitgroup.com/).
